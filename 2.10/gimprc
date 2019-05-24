@@ -1,0 +1,86 @@
+# GIMP gimprc
+# 
+# This is your personal gimprc file.  Any variable defined in this file takes
+# precedence over the value defined in the system-wide gimprc: C:\Program
+# Files\GIMP 2\etc\gimp\2.0\gimprc
+# Most values can be set within GIMP by changing some options in the
+# Preferences dialog.
+
+(default-image
+    (width 1920)
+    (height 1080)
+    (unit pixels)
+    (xresolution 300.000000)
+    (yresolution 300.000000)
+    (resolution-unit inches)
+    (image-type rgb)
+    (precision u8-gamma)
+    (color-managed yes)
+    (color-profile NULL)
+    (fill-type transparent)
+    (comment ""))
+(import-raw-plug-in "${gimp_plug_in_dir}\\plug-ins\\file-raw-placeholder\\file-raw-placeholder.exe")
+(transparency-type light-checks)
+(show-paint-tool-cursor no)
+(monitor-xresolution 142.000000)
+(monitor-yresolution 142.000000)
+(default-view
+    (show-menubar yes)
+    (show-statusbar yes)
+    (show-rulers yes)
+    (show-scrollbars yes)
+    (show-selection yes)
+    (show-layer-boundary no)
+    (show-guides yes)
+    (show-grid no)
+    (show-sample-points yes)
+    (snap-to-guides yes)
+    (snap-to-grid no)
+    (snap-to-canvas yes)
+    (snap-to-path no)
+    (padding-mode default)
+    (padding-color (color-rgb 1.000000 1.000000 1.000000)))
+(default-fullscreen-view
+    (show-menubar yes)
+    (show-statusbar yes)
+    (show-rulers yes)
+    (show-scrollbars yes)
+    (show-selection yes)
+    (show-layer-boundary no)
+    (show-guides yes)
+    (show-grid no)
+    (show-sample-points yes)
+    (snap-to-guides yes)
+    (snap-to-grid no)
+    (snap-to-canvas yes)
+    (snap-to-path no)
+    (padding-mode default)
+    (padding-color (color-rgb 1.000000 1.000000 1.000000)))
+(devices-share-tool yes)
+(save-tool-options no)
+(toolbox-foo-area yes)
+(toolbox-wilber no)
+(theme "Dark SegoeUI")
+(layer-add-mask-type selection)
+(fill-options
+    (style solid)
+    (antialias yes)
+    (feather no)
+    (feather-radius 10.000000))
+(stroke-options
+    (style solid)
+    (antialias yes)
+    (feather no)
+    (feather-radius 10.000000)
+    (method line)
+    (width 6.000000)
+    (unit pixels)
+    (cap-style butt)
+    (join-style miter)
+    (miter-limit 10.000000)
+    (dash-offset 0.000000)
+    (dash-info 0)
+    (emulate-brush-dynamics no))
+
+
+# end of gimprc

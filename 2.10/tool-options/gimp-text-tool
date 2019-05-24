@@ -1,0 +1,9 @@
+# GIMP gimp-text-tool options
+
+(palette "Visibone 2")
+(font "Roboto")
+(font-size 14.000000)
+(font-size-unit points)
+(hint-style none)
+
+# end of gimp-text-tool options

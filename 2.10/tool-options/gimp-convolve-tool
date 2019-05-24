@@ -1,0 +1,8 @@
+# GIMP gimp-convolve-tool options
+
+(brush "2. Hardness 100")
+(dynamics "Dynamics Off")
+(palette "Visibone 2")
+(brush-size 51.000000)
+
+# end of gimp-convolve-tool options

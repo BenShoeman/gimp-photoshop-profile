@@ -1,0 +1,14 @@
+# GIMP user context
+
+(tool "gimp-rect-select-tool")
+(paint-info "gimp-paintbrush")
+(brush "2. Hardness 100")
+(dynamics "Dynamics Off")
+(mybrush "100% Opaque")
+(pattern "Pine")
+(gradient "FG to BG (RGB)")
+(palette "Visibone 2")
+(font "Roboto")
+(tool-preset "16×10")
+
+# end of user context

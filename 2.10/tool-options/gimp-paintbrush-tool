@@ -1,0 +1,9 @@
+# GIMP gimp-paintbrush-tool options
+
+(brush "2. Hardness 100")
+(dynamics "Dynamics Off")
+(gradient "FG to BG (RGB)")
+(palette "Visibone 2")
+(brush-size 51.000000)
+
+# end of gimp-paintbrush-tool options
