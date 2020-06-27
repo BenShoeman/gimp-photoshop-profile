@@ -1,6 +1,6 @@
 # GIMP 2.10 Photoshop Profile
 
-This is a GIMP profile I made to make GIMP emulate Photoshop as best as I could, in terms of UI layout, tool behavior, and shortcuts. To use in Windows, replace the `2.10` directory inside `%AppData%\GIMP` with the `2.10` directory in this repo. This will likely work fine in MacOS and Linux, but I haven't tested.
+This is a GIMP profile I made to make GIMP emulate Photoshop as best as I could, in terms of UI layout, tool behavior, and shortcuts. To use in Windows, replace the `2.10` directory inside `%AppData%\GIMP` (for Windows) or `~/.config/GIMP` (for Linux)  with the `2.10` directory in this repo. This will likely work fine in MacOS and Linux, but I haven't tested.
 
 I added a few things in this repo to make my GIMP experience on first run simpler too, so I don't have to do a bunch of configuring. Specifically, I included a bunch of free fonts so GIMP can use them, I modified the default themes to use Segoe UI rather than the ugly GTK Sans font, and I added custom minimal splashes.
 
